@@ -222,7 +222,7 @@ header nav .form i {
 .landing {
   min-height: 100vh;
   background-color: var(--fallbackcolor);
-  background-image: url("../imgs/landing.jpg");
+  background-image: url("/imgs/landing.jpg");
   background-size: cover;
   position: relative;
 }
@@ -367,7 +367,7 @@ header nav .form i {
   padding-bottom: var(--secpadding);
   height: 600px;
   position: relative;
-  background-image: url(../imgs/design-features.jpg);
+  background-image: url(/imgs/design-features.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -556,7 +556,7 @@ header nav .form i {
   padding-top: var(--secpadding);
   padding-bottom: var(--secpadding);
   text-align: center;
-  background-image: url("../imgs/stats.png");
+  background-image: url("/imgs/stats.png");
   background-size: cover;
   position: relative;
 }
@@ -748,7 +748,7 @@ header nav .form i {
   position: relative;
   padding-top: var(--secpadding);
   padding-bottom: var(--secpadding);
-  background-image: url(../imgs/quote.jpg);
+  background-image: url(/imgs/quote.jpg);
   background-size: cover;
   text-align: center;
   color: white;
@@ -888,7 +888,7 @@ header nav .form i {
 .subscribe {
   padding-top: var(--secpadding);
   padding-bottom: var(--secpadding);
-  background-image: url(../imgs/subscribe.jpg);
+  background-image: url(/imgs/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
@@ -1041,7 +1041,7 @@ header nav .form i {
 /* footer */
 .foter {
   padding: var(--secpadding) 0;
-  background-image: url(../imgs/subscribe.jpg);
+  background-image: url(/imgs/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
